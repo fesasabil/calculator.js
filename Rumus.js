@@ -9,7 +9,7 @@ console.log(kubus * kubus * kubus); //jumlah = 729
 var persegi = 6;
 var persegi1 = 5;
 
-console.log(persegi1 * persegi1 * persegi1); //jumlah = 125
+console.log(persegi1 * persegi1 * persegi1 * persegi1); //jumlah = 750
 
 
 //rumuz luas segitiga
