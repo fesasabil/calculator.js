@@ -48,12 +48,12 @@ console.log(hasilpengurangan);
 
 //rumus persegi
 function rumuspersegi () {
-    return persegi * persegi * persegi * persegi
+    return persegi * 4
 }
 
 let persegi = 5;
 
-let hasilrumuspersegi = (persegi * persegi * persegi * persegi)
+let hasilrumuspersegi = (persegi * 4)
 console.log(hasilrumuspersegi);
 
 
