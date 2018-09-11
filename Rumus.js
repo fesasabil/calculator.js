@@ -9,7 +9,7 @@ console.log(kubus * kubus * kubus); //jumlah = 729
 var persegi = 6;
 var persegi1 = 5;
 
-console.log(persegi1 * 4); //ju
+console.log(persegi1 * 4); // jumlah = 20
 
 
 
