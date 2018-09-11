@@ -10,7 +10,7 @@ var persegi = 6;
 var persegi1 = 5;
 
 <<<<<<< HEAD
-console.log(persegi1 * persegi1 * persegi1 * persegi); //jumlah = 750
+console.log(persegi1 * 4); //ju
 =======
 console.log(persegi1 * persegi1 * persegi1 * persegi1); //jumlah = 750
 >>>>>>> 73de4b4bc89b48905fdafbf5d1d8c350b3cdcd09
